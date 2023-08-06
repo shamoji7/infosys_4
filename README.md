@@ -1,1 +1,1 @@
-I created to find inver index.
+I created to a system to create invert index.
